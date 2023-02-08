@@ -1,0 +1,10 @@
+C:\Users\richa\source\repos\Tron+\Tron+\bin\Debug\Tron+.exe.config
+C:\Users\richa\source\repos\Tron+\Tron+\bin\Debug\Tron+.exe
+C:\Users\richa\source\repos\Tron+\Tron+\bin\Debug\Tron+.pdb
+C:\Users\richa\source\repos\Tron+\Tron+\obj\Debug\Tron+.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\Tron+\Tron+\obj\Debug\Tron_.Form1.resources
+C:\Users\richa\source\repos\Tron+\Tron+\obj\Debug\Tron_.Properties.Resources.resources
+C:\Users\richa\source\repos\Tron+\Tron+\obj\Debug\Tron+.csproj.GenerateResource.cache
+C:\Users\richa\source\repos\Tron+\Tron+\obj\Debug\Tron+.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\Tron+\Tron+\obj\Debug\Tron+.exe
+C:\Users\richa\source\repos\Tron+\Tron+\obj\Debug\Tron+.pdb
